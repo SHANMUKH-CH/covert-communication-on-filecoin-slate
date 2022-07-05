@@ -12,8 +12,7 @@ pip install -r requirements.txt
 
 - <https://slate.host/>
 - Get API key from the slate.host after creating the account.
-- Replace the API key in major_sender.py & get_details.py on lines 71 & 7 respectively.
-- Replace the collection ID in major_sender.py on line 65.
+- Replace the API key in sender.py & get_details.py on lines 64 & 6 respectively.
 
 ## Run the sender code
 
